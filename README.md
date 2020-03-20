@@ -1,12 +1,10 @@
 # Bussiness Solutions With SQL on Python
-A study on a database which has data from music market to analyze sales.
 
-## Introduction
-We have used SQL querries on Python. We have answered some business questions about music market around world. We have visualized on graphics and evaluated results.
+In this project, I analyzed music markets' situation. I used SQL queries with python. I managed a relational database. I observed database and I detected relationships. I used joins to obtain observable tables. I niggled on genres, sales, employee performances. I visualized results by using matplotlib. 
 
-## Technologies
-We have studied with Python 3.7 on Jupyter Notebook. We used:
-* Sqlite3
-* Pandas
-* Numpy
-* Matplotlib
+## Conclusion
+USA has high customer market. Especially, there is a interest to "Rock" genre in USA. 
+
+I can claim that there is customer potential in Czech Republic. And, proportion of those interested in "Rock" genre is 51%. It is important point to evaluate.
+
+
